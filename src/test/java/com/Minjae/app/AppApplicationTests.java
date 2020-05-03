@@ -1,4 +1,4 @@
-package com.sangkon.app;
+package com.Minjae.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
